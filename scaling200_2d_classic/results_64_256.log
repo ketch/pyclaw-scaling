@@ -1,0 +1,6 @@
+classic 
+clawrun + load took 3.32110166588 seconds, for process 0
+clawrun took 3.31692484706 seconds, for process 0 in grid 256
+number of steps: 199
+time reduction time 0.000271623529414
+tfinal 0.000625 and dt 0.0017578125

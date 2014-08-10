@@ -1,0 +1,6 @@
+sharpclaw 
+clawrun + load took 44.6082144988 seconds, for process 0
+clawrun took 44.6067446847 seconds, for process 0 in grid 128
+number of steps: 199
+time reduction time 0.000224455294131
+tfinal 0.00176776695297 and dt 0.003515625
